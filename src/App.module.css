@@ -1,0 +1,9 @@
+.main {
+    max-height: 100%;
+    text-align:center;
+    padding: 2em;
+}
+
+.main h2 {
+    margin-bottom: 1.8em;
+}
